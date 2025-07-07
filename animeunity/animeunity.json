@@ -11,7 +11,7 @@
   "quality": "1080p",
   "baseUrl": "https://www.animeunity.so/",
   "searchBaseUrl": "https://www.animeunity.so/archivio?title=",
-  "scriptUrl": "https://raw.githubusercontent.com/Nyrtantn/plugins/refs/heads/main/animeunity/animeunity.js",
+  "scriptUrl": "https://raw.githubusercontent.com/Nyrtantn/50n50customSources/refs/heads/main/animeunity/animeunity.js",
   "asyncJS": true,
   "type": "anime"
 }
